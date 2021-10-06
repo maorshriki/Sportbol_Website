@@ -1,0 +1,40 @@
+.style {
+  margin-top: 10px;
+  margin-left: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-gap: 0.5rem;
+}
+
+.main-style {
+  margin-top: 10px;
+  margin-left: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-gap: 0.5rem;
+}
+.style2 {
+  border: 3px;
+  border-color: rgb(228, 225, 225);
+  display: inline-block;
+  text-align: right;
+}
+.style2 {
+  text-align: right;
+}
+
+.edit {
+  background-color: rgb(202, 206, 206);
+}
+
+.main-strong {
+  text-align: center;
+  font-size: 25px;
+}
+.header {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: brown;
+}
