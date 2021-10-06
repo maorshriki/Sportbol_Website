@@ -1,0 +1,7 @@
+.back-sign-up,
+.back-sign-in {
+  background-image: url("./componentImages/signup&signin.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

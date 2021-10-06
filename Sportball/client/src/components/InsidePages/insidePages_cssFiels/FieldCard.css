@@ -1,0 +1,105 @@
+.fieldCard_wrapper {
+  width: 20%;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin: auto;
+  background-color: rgb(239, 241, 241);
+  margin-top: 30px;
+}
+.fieldCard_img {
+  object-fit: cover;
+  flex-shrink: 1;
+  width: 100%;
+  z-index: -30;
+  margin-bottom: 10px;
+}
+
+.field_Type {
+  margin: 20px 10;
+  text-align: end;
+}
+.field_Name {
+  margin: 20px 10;
+  text-align: end;
+}
+
+.field_HouseNumbe {
+  margin: 20px 10;
+  text-align: end;
+}
+.field_street {
+  margin: 20px 10;
+  text-align: end;
+}
+.field_Activity {
+  margin: 20px 10;
+  text-align: end;
+}
+.field_fencing {
+  margin: 20px 10;
+  text-align: end;
+}
+
+.field_lighting {
+  margin: 20px 10;
+  text-align: end;
+}
+.field_condition {
+  margin: 20px 10;
+  text-align: end;
+}
+
+.field_Owner {
+  margin: 20px 10;
+  text-align: end;
+}
+.field_handicappe {
+  margin: 20px 10;
+  text-align: end;
+}
+.field_price {
+  margin: 20px 10;
+  text-align: end;
+}
+
+.field_button {
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 25px;
+  background-color: #aaaaaa;
+  border: none;
+  transition: all 0.2s ease-in;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.field_button:hover {
+  color: white;
+  background-color: #f1b668;
+  transform: translate(2px, -2px);
+  font-size: 20px;
+}
+
+.field_button:focus,
+.field_button:active {
+  outline: none;
+}
+
+@media screen and (max-width: 1147px) {
+  .fieldCard_wrapper {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .fieldCard_wrapper {
+    width: 90%;
+  }
+}
+
+h3 {
+  font-size: 20px;
+  font-family: "arial";
+  color: rgb(2, 2, 2);
+}

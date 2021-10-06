@@ -1,0 +1,117 @@
+.bg {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.mainRow {
+  width: 40%;
+  text-align: center;
+}
+
+.desc {
+  background-color: #f0edeb;
+  margin-top: 2%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 2%;
+}
+
+.card-body {
+  padding: 0;
+  margin: 0;
+}
+
+div.card.main {
+  margin: 0px !important;
+}
+
+.quantity,
+.shipping,
+.promocode,
+.subtotal,
+.cardAndExpire,
+.nameAndcvc {
+  margin: 5%;
+  color: #6c757d !important;
+}
+
+.heading1 {
+  margin: 5%;
+  font-size: 25px;
+}
+
+.heading2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.payment {
+  background-color: #f0edeb;
+  padding: 1%;
+}
+
+.text1 {
+  color: black;
+  font-weight: 700;
+}
+
+.card-footer {
+  background-color: black;
+  color: white;
+}
+
+.purchaseLink {
+  text-decoration: none;
+}
+
+.row1 {
+  font-size: 12px;
+}
+
+.row2 {
+  font-weight: 600;
+}
+
+.subRow {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+p.cardAndExpireValue,
+p.nameAndcvcValue {
+  margin: 5%;
+  margin-bottom: 10%;
+  font-weight: 600;
+}
+
+p.nameAndcvc,
+p.cardAndExpire {
+  margin-bottom: -10px;
+}
+
+.total {
+  margin: 5%;
+}
+
+.totalText {
+  font-weight: 700;
+}
+
+.totalText2 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.card-img-top {
+  margin-top: 3%;
+  width: 45%;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+  height: 200px;
+}
+
+.col-sm-4 {
+  margin-top: 56px;
+}
