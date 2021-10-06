@@ -108,7 +108,7 @@ const SignUp = () => {
 
   const showSignupForm = () => (
     <form className="signup-form" onSubmit={handleSubmit} noValidate>
-      <p className="display-1 text-center text-black">Sign Up</p>
+      <p className="display-1 text-center text-white">Sign Up</p>
       <div className="form-group input-group">
         <div className="input-group-prepend">
           <span className="input-group-text">
@@ -170,7 +170,7 @@ const SignUp = () => {
         />
       </div>
 
-      <p className="text-center text-black fs-4"></p>
+      <p className="text-center text-white fs-4"></p>
 
       <div className="form-group">
         <button
@@ -180,10 +180,10 @@ const SignUp = () => {
           Sign Up
         </button>
       </div>
-      <p className="text-center text-black fs-4"></p>
-      <p className="text-center text-black fs-4">
+      <p className="text-center text-white fs-4"></p>
+      <p className="text-center text-white fs-4">
         Have an account?{" "}
-        <Link className="text-center text-black fs-5" to="/signin">
+        <Link className="text-center text-white fs-5" to="/signin">
           Log In
         </Link>
       </p>
