@@ -5,6 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <h1>Sportbol Store</h1>
+    <h1>Built using React, JavaScript, MongoDb, Html, Css, Node Js, Express etc.
+The fields were taken from databases of Beer Sheva Municipality.</h1>
     <link href="style.css" rel="stylesheet"/>
 </head>
 <body>
@@ -34,7 +36,7 @@
   <img width="958" alt="readme_guid_ohad" src="https://user-images.githubusercontent.com/74913575/136245166-1543c80d-a119-499e-8804-50c3f0f85972.png"></img>
          
 
-  <div><h1>Hope you will enjoy</h1></div>
+  <div><h1>Hope you will enjoy!</h1></div>
 
 </div>
 </body>
