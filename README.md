@@ -1,6 +1,17 @@
 
+<h1>Sportbol Store</h1>
+<h4>Built using React, JavaScript, MongoDb, Html, Css, Node Js, Express etc.
+The fields were taken from databases of Beer Sheva Municipality.</h4>
 
+# User Screen
 https://user-images.githubusercontent.com/74913575/136258805-640a556b-220c-4b9f-a350-d6800de107bd.mp4
+
+# DataBase & Admin Screen
+
+
+
+https://user-images.githubusercontent.com/74913575/136358948-cf6b81bc-2719-4d89-827b-89a2a5452af6.mov
+
 
 
 
@@ -8,9 +19,6 @@ https://user-images.githubusercontent.com/74913575/136258805-640a556b-220c-4b9f-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <h1>Sportbol Store</h1>
-    <h1>Built using React, JavaScript, MongoDb, Html, Css, Node Js, Express etc.
-The fields were taken from databases of Beer Sheva Municipality.</h1>
     <link href="style.css" rel="stylesheet"/>
 </head>
 <body>
@@ -20,7 +28,7 @@ The fields were taken from databases of Beer Sheva Municipality.</h1>
         1. install node 
         2. from root directory (Sportball) run the command - npm install
         3. from client directory (Sportball/client) run the command - npm install
-        4. run - npm run data:import (this will load all the data into the data
+        4. run - npm run data:import (this script will load all the data into the data
         base) 
         5. run - npm run dev (in order to run the app)
         6. For security reasons, in order to enter the admin user, 
