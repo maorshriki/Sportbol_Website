@@ -23,7 +23,7 @@ The fields were taken from databases of Beer Sheva Municipality.</h1>
         4. run - npm run data:import (this will load all the data into the data
         base) 
         5. run - npm run dev (in order to run the app)
-        6. For security reasons, in order to change the admin user, 
+        6. For security reasons, in order to enter the admin user, 
         enter the database and edit the field (role = admin) in the user object,
         as attached in the following image.
         In order to enter the database (mongodb atlas),
