@@ -36,8 +36,6 @@ https://user-images.githubusercontent.com/74913575/136358948-cf6b81bc-2719-4d89-
         as attached in the following image.
         In order to enter the database (mongodb atlas),
         enter the following details:
-        Username - maor92272@gmail.com Password -
-        Test1234
         Attached a picture of the steps that must be performed after logging in:
         Maor (top right corner) -> cloud -> Browse Collections ->
         users -> double click on the role field of the account you
